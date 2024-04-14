@@ -3,7 +3,7 @@
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sergio" /></p>
 
-- Dominio de Java(Springboot), PHP, JavaScript y bases de datos SQL, experiencia en el uso de git para el control de versiones y la colaboración en proyectos, familiaridad con metodologías ágiles como Scrum.
+Dominio de Java(Springboot), PHP, JavaScript y bases de datos SQL, experiencia en el uso de git para el control de versiones y la colaboración en proyectos, familiaridad con metodologías ágiles como Scrum.
   Con el objetivo de seguir aprendiendo y mejorando. Rápida adaptabilidad a nuevas tecnologías y formas de trabajo.
 <br>
 <h3 align="left">Contáctame:</h3>
