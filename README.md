@@ -19,7 +19,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="sergio lopez" height="30" width="40" /></a>
     <a href="mailto:Sergiolopez1802@gmail.com" target="blank"><img align="center"
-      src="https://img.shields.io/badge/gmail"
+      src=""
       alt="sergio lopez" height="30" width="40" /></a>
 </p>
 <br>
@@ -43,6 +43,9 @@
       alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a>
+   <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="mysql" width="40" height="40" /> </a>
       </p>
 
