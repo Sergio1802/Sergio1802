@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sergio" /></p>
 
-<div style="width: 310px;">
+<div style="margin-right: 20px;">
 
 - Dominio de Java(Springboot), PHP, JavaScript y bases de datos SQL, experiencia en el uso de git para el control de versiones y la colaboración en proyectos, familiaridad con metodologías ágiles como Scrum.
   Con el objetivo de seguir aprendiendo y mejorando. Rápida adaptabilidad a nuevas tecnologías y formas de trabajo.
@@ -51,6 +51,12 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git" width="40" height="40" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://img.icons8.com/officel/48/000000/php-logo.png"
+      alt="php" width="40" height="40" /> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://img.icons8.com/officel/48/000000/php-logo.png"
+      alt="terminal" width="40" height="40" /> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/officel/48/000000/php-logo.png"
       alt="php" width="40" height="40" /> </a>
       </p>
