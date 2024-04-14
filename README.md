@@ -11,6 +11,7 @@
   Con el objetivo de seguir aprendiendo y mejorando. Rápida adaptabilidad a nuevas tecnologías y formas de trabajo.
 
 </div>
+<br>
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
@@ -21,7 +22,7 @@
       src="https://img.shields.io/badge/gmail"
       alt="sergio lopez" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Habilidades:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -45,5 +46,6 @@
       alt="mysql" width="40" height="40" /> </a>
       </p>
 
+<br>
 
 [Sergio1802](https://github.com/Sergio1802)
