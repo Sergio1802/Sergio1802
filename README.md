@@ -5,11 +5,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sergio" /></p>
 
+<div style="width: 310px;">
 
 - Dominio de Java(Springboot), PHP, JavaScript y bases de datos SQL, experiencia en el uso de git para el control de versiones y la colaboración en proyectos, familiaridad con metodologías ágiles como Scrum.
   Con el objetivo de seguir aprendiendo y mejorando. Rápida adaptabilidad a nuevas tecnologías y formas de trabajo.
 
-<br>
+</div>
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
@@ -20,8 +21,6 @@
       src="https://img.shields.io/badge/gmail"
       alt="sergio lopez" height="30" width="40" /></a>
 </p>
-
-<br>
 
 <h3 align="left">Habilidades:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -46,6 +45,5 @@
       alt="mysql" width="40" height="40" /> </a>
       </p>
 
-<br>
 
 [Sergio1802](https://github.com/Sergio1802)
