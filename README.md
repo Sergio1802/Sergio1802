@@ -35,6 +35,3 @@ Dominio de Java(Springboot), PHP, JavaScript y bases de datos SQL, experiencia e
       </p>
 
 <br>
-[Sergio1802][1]
-
-[1]: https://github.com/Sergio1802
