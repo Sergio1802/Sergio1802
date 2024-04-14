@@ -19,7 +19,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="sergio lopez" height="30" width="40" /></a>
     <a href="mailto:Sergiolopez1802@gmail.com" target="blank"><img align="center"
-      src=""
+      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"
       alt="sergio lopez" height="30" width="40" /></a>
 </p>
 <br>
@@ -37,6 +37,9 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
+      height="40" /> </a
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -46,7 +49,10 @@
       alt="mysql" width="40" height="40" /> </a>
    <a href="" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="mysql" width="40" height="40" /> </a>
+      alt="git" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://img.icons8.com/officel/48/000000/php-logo.png"
+      alt="php" width="40" height="40" /> </a>
       </p>
 
 <br>
