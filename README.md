@@ -53,12 +53,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/officel/48/000000/php-logo.png"
       alt="php" width="40" height="40" /> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img
-      src="https://img.icons8.com/officel/48/000000/php-logo.png"
-      alt="terminal" width="40" height="40" /> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img
-      src="https://img.icons8.com/officel/48/000000/php-logo.png"
-      alt="php" width="40" height="40" /> </a>
       </p>
 
 <br>
