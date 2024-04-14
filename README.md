@@ -1,18 +1,11 @@
 <h1 align="center">Ey 👋, soy Sergio Lopez</h1>
 <h3 align="center">Desarrollador de software</h3>
-
 <br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sergio" /></p>
-
-<div style="margin-right: 20px;">
 
 - Dominio de Java(Springboot), PHP, JavaScript y bases de datos SQL, experiencia en el uso de git para el control de versiones y la colaboración en proyectos, familiaridad con metodologías ágiles como Scrum.
   Con el objetivo de seguir aprendiendo y mejorando. Rápida adaptabilidad a nuevas tecnologías y formas de trabajo.
-
-</div>
 <br>
-
 <h3 align="left">Contáctame:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sergiolopez18/" target="blank"><img align="center"
@@ -56,5 +49,4 @@
       </p>
 
 <br>
-
 [Sergio1802](https://github.com/Sergio1802)
